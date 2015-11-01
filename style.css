@@ -1,0 +1,237 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: white;
+}
+
+img {
+	position: absolute;
+	top: 35vh;
+    opacity: 0;
+}
+
+.nav {
+	position: absolute;
+	bottom: 5vh;
+	margin-left: 6.763vw;
+}
+
+a {
+	color: white;
+	font-family: "Avenir";
+	font-size: .8em;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 50px;
+}
+
+a:hover {
+	color: #E4EAEC;
+}
+
+
+
+
+.t-top {
+	width: 7.903vw;
+	height: 1.622vw;
+	margin-left: 6.763vw;
+}
+
+.t-bottom {
+	width: 7.898vw;
+	height: 8.378vw;
+	margin-top: 1.622vw; 
+	margin-left: 6.763vw;
+}
+
+
+
+
+
+.e-left {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 15.875vw;
+}
+
+.e-top {
+	width: 5.097vw;
+	height: 2.792vw;
+	margin-left: 17.652vw;
+}
+
+.e-mid {
+	width: 5.097vw;
+	height: 4.181vw;
+	margin-top: 2.792vw;
+	margin-left: 17.652vw;
+}
+
+.e-bottom {
+	width: 5.097vw;
+	height: 2.99vw;
+	margin-top: 6.97vw;
+	margin-left: 17.652vw;
+}
+
+
+
+
+
+
+.m-left {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 24.534vw;
+}
+
+.m-mid-A {
+	width: 3.6875vw;
+	height: 10vw;
+	margin-left: 26.227vw;
+}
+
+.m-mid-B{
+	width: 7.375vw;
+	height: 10vw;
+	margin-left: 26.227vw;
+}
+
+.m-mid-C {
+	width: 3.6875vw;
+	height: 10vw;
+	margin-left: 29.908vw;
+}
+
+
+.m-right {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 33.589vw;
+}
+
+
+
+
+
+
+.p-left {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 37.553vw;
+}
+
+.p-loop {
+	width: 5.26vw;
+	height: 5.85vw;
+	margin-left: 39.33vw;
+}
+
+
+
+
+
+
+.o-left {
+	width: 5.042vw;
+	height: 10vw;
+	margin-left: 45.804vw;
+}
+
+.o-right {
+	width: 5.042vw;
+	height: 10vw;
+	margin-left: 50.846vw;
+}
+
+
+
+
+
+
+.r1-left {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 57.919vw;
+}
+
+.r1-loop {
+	width: 5.26vw;
+	height: 5.85vw;
+	margin-left: 59.697vw;
+}
+
+.r1-slant {
+	width: 5.81vw;
+	height: 4.403vw;
+	margin-top: 5.597vw;
+	margin-left: 59.697vw;
+}
+
+
+
+
+
+
+.a-top {
+	width: 10.18vw;
+	height: 7.694vw;
+	margin-left: 65.69vw;
+}
+
+.a-bottom {
+	width: 10.18vw;
+	height: 2.292vw;
+	margin-top: 7.694vw;
+	margin-left: 65.69vw; 
+}
+
+
+
+
+
+
+.r2-left {
+	width: 1.778vw;
+	height: 10vw;
+	margin-left: 76.988vw;
+}
+
+.r2-loop {
+	width: 5.26vw;
+	height: 5.85vw;
+	margin-left: 78.765vw;
+}
+
+.r2-slant {
+	width: 5.81vw;
+	height: 4.403vw;
+	margin-top: 5.597vw;
+	margin-left: 78.765vw;
+}
+
+
+
+
+
+
+.y-left {
+	width: 4.68vw;
+	height: 5.71vw;
+	margin-left: 84.04vw;
+}
+
+.y-right {
+	width: 4.68vw;
+	height: 5.71vw;
+	margin-left: 88.72vw;
+}
+
+.y-bottom {
+	width: 9.36vw;
+	height: 4.29vw;
+	margin-top: 5.71vw;
+	margin-left: 84.04vw;
+}
